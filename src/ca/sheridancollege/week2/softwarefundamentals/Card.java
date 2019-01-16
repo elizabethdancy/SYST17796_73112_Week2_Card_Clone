@@ -44,8 +44,8 @@ public class Card
         }
         else
         {
-            System.out.println("The suit you have tried to assign is not valid");
-            System.out.println("Please choose from: Hearts, Diamonds, Clubs, Spades");
+            //System.out.println("The suit you have tried to assign is not valid");
+            //System.out.println("Please choose from: Hearts, Diamonds, Clubs, Spades");
         }
     }
 
