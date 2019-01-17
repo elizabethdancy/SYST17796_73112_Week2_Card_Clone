@@ -8,7 +8,7 @@ package ca.sheridancollege.week2.softwarefundamentals;
 /**
  * A class to model Card Objects.
  * Created in Week 2 for the cloning repository demo
- * @author dancye,  January 17th, 2019
+ * @author dancye,  January 17th, 2019 here
  */
 public class Card 
 {
